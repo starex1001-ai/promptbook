@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "name": "프롬프트북",
+  "brand": "PROMPT BOOK",
+  "mark": "PB",
+  "worker": "promptbook",
+  "url": "https://promptbook.webnote-lab.workers.dev",
+  "description": "목적, 조건, 예시와 검수 기준으로 프롬프트를 다듬는 방법을 정리합니다.",
+  "tagline": "원하는 답을 위한 질문 정리",
+  "categories": [
+    {
+      "slug": "basics",
+      "name": "프롬프트 기본",
+      "description": "프롬프트 기본 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "constraints",
+      "name": "조건 설정",
+      "description": "조건 설정 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "roles",
+      "name": "역할 부여",
+      "description": "역할 부여 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "examples",
+      "name": "예시 활용",
+      "description": "예시 활용 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "long-tasks",
+      "name": "긴 작업",
+      "description": "긴 작업 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "review",
+      "name": "검수 프롬프트",
+      "description": "검수 프롬프트 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "source-writing",
+      "name": "자료 기반 작성",
+      "description": "자료 기반 작성 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "comparisons",
+      "name": "비교 요청",
+      "description": "비교 요청 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "repeat-tasks",
+      "name": "반복 작업",
+      "description": "반복 작업 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "revisions",
+      "name": "수정 지시",
+      "description": "수정 지시 관련 확인 방법과 가이드"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/promptbook/issues"
+}
